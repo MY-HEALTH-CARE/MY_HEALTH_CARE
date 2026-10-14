@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950730593532",
+    "firebase_url": "https://health-care-db-3f4a7-default-rtdb.firebaseio.com",
+    "project_id": "health-care-db-3f4a7",
+    "storage_bucket": "health-care-db-3f4a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950730593532:android:958b2dc52a68dba4ca7379",
+        "android_client_info": {
+          "package_name": "com.example.health_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950730593532-5qsg97c8qjudodhm78eppavfu2vsi47c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5UMoRRyErDQeiY7LmwRvvMz9PLRzR1A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950730593532-5qsg97c8qjudodhm78eppavfu2vsi47c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950730593532-ohugomrmaked19h796b23gb9l3bfllvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
